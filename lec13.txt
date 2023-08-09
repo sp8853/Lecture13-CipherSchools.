@@ -1,0 +1,16 @@
+questions:
+what happens when we add integers to pointers 
+what is scale factor
+if we know the addition of the first element in an array , can we make a set ?
+
+
+#include<iostream>
+using namespace std;
+int main()
+{
+int a=5;
+int *x;
+x=&a;
+cout<<"the address of a , which is stored in the ponter x is:"<<x<<"the value of x+1 is "<<x+1 is 
+}
+
